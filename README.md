@@ -7,6 +7,8 @@
     <title>Ishimwe Egîdë - Portfolio</title>
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+```
+```css
     <style>
         * {
             margin: 0;
@@ -320,6 +322,9 @@
             margin: 0;
         }
     </style>
+```
+
+```html
 </head>
 <body>
     <header>
